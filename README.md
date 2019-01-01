@@ -4,8 +4,6 @@
 ![Xcode 9.0+](https://img.shields.io/badge/Xcode-9.0%2B-blue.svg)
 ![iOS 11.0+](https://img.shields.io/badge/iOS-11.0%2B-blue.svg)
 ![Swift 4.0+](https://img.shields.io/badge/Swift-4.0%2B-orange.svg)
-[![Build Status](https://travis-ci.org/TBXark/Ruler.svg?branch=master)](https://travis-ci.org/TBXark/Ruler)
-
 
 ![](logo.png)
 
