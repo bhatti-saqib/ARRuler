@@ -1,5 +1,5 @@
 # Ruler
-> A simple AR ruler app can measure length &amp; area
+> A simple AR ruler app can measure length.
 
 ![Xcode 9.0+](https://img.shields.io/badge/Xcode-9.0%2B-blue.svg)
 ![iOS 11.0+](https://img.shields.io/badge/iOS-11.0%2B-blue.svg)
