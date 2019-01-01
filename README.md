@@ -6,8 +6,6 @@
 ![Swift 4.0+](https://img.shields.io/badge/Swift-4.0%2B-orange.svg)
 
 
-![image](https://user-images.githubusercontent.com/6277495/50574084-87a17000-0dfa-11e9-9fc0-991614c5b5a9.png)
-
 ## Requirements
 
 - Swift 4.0
