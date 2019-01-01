@@ -5,6 +5,7 @@
 ![iOS 11.0+](https://img.shields.io/badge/iOS-11.0%2B-blue.svg)
 ![Swift 4.0+](https://img.shields.io/badge/Swift-4.0%2B-orange.svg)
 
+![image](https://user-images.githubusercontent.com/6277495/50575268-f7bcef80-0e14-11e9-86e4-fc6f9665a042.png)
 
 ## Requirements
 
