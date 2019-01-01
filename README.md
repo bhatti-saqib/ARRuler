@@ -23,13 +23,6 @@ youtube : [https://youtu.be/2wKLUqPizfQ](https://youtu.be/2wKLUqPizfQ)
 ![](demo_length.png) 
 
 
-2. Mesure Area 
-
-youtube : [https://youtu.be/gRd1Ag4C7lU](https://youtu.be/gRd1Ag4C7lU)
-
-![](demo_area.png)
-
-
 ## Install
 
 - Manually compile
