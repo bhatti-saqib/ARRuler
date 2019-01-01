@@ -33,11 +33,6 @@ youtube : [https://youtu.be/gRd1Ag4C7lU](https://youtu.be/gRd1Ag4C7lU)
 
 ## Install
 
-- AppStore (recommend)
-
-  > [**ARuler** https://itunes.apple.com/us/app/id1287068680](https://itunes.apple.com/us/app/id1287068680)
-
-
 - Manually compile
   1.  `git clone https://github.com/TBXark/Ruler `
   2. `pod install`
