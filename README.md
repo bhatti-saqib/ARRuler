@@ -33,8 +33,6 @@ youtube : [https://youtu.be/2wKLUqPizfQ](https://youtu.be/2wKLUqPizfQ)
 
 ## Meta
 
-TBXark – [@tbxark](https://twitter.com/tbxark) – tbxark@outlook.com
-
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/TBXark](https://github.com/TBXark)
