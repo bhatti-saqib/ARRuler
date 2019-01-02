@@ -18,7 +18,7 @@
 
 1. Mesure Length 
 
-youtube : [https://youtu.be/2wKLUqPizfQ](https://youtu.be/2wKLUqPizfQ)
+youtube : [https://www.youtube.com/watch?v=hL3QIbUryTQ&feature=youtu.be](https://www.youtube.com/watch?v=hL3QIbUryTQ&feature=youtu.be)
 
 ![](demo_length.png) 
 
