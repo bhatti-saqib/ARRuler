@@ -29,3 +29,7 @@ youtube : [https://youtu.be/2wKLUqPizfQ](https://youtu.be/2wKLUqPizfQ)
   1.  `git clone https://github.com/bhatti-saqib/ARRuler `
   2. `pod install`
   3. Compile project with Xcode
+
+### License
+
+- [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
