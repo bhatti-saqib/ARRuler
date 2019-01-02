@@ -26,7 +26,7 @@ youtube : [https://youtu.be/2wKLUqPizfQ](https://youtu.be/2wKLUqPizfQ)
 ## Install
 
 - Manually compile
-  1.  `git clone https://github.com/TBXark/Ruler `
+  1.  `git clone https://github.com/bhatti-saqib/ARRuler `
   2. `pod install`
   3. Compile project with Xcode
 
